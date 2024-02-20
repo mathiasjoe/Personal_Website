@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Personal_Website" element={<Home />} />
           <Route path="*" element={<div>404 Not found, please go back to homepage</div>} />
         </Routes>
       </Router>
