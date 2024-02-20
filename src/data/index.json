@@ -1,0 +1,23 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "HTML, CSS, JavaScript/TypeScript, React, Next.js, HTTP"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Java, SpringBoot, SQL, MySQL, RESTful API, Azure"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "Agile/Scrum, Pair Programming, DevOps, Docker, CI/CD, Github/Gitlab"
+      }
+    ]
+
+  }
